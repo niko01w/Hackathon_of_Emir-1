@@ -1,0 +1,29 @@
+[
+  {
+    "id": 12,
+    "marka": "DEOR",
+    "model": "ZEON",
+    "years": 12,
+    "opisanie": "1",
+    "cost": 21.0,
+    "price": [
+      21312.0
+    ]
+  },
+  {
+    "id": "3",
+    "marka": "LENOVO",
+    "model": "HONOR",
+    "years": 21,
+    "opisanie": "FR",
+    "price": 54.0
+  },
+  {
+    "id": "43",
+    "marka": "LENOVO",
+    "model": "ER4",
+    "years": 2023,
+    "opisanie": "FOR",
+    "price": 0.0
+  }
+]
