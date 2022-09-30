@@ -1,16 +1,5 @@
 [
   {
-    "id": 12,
-    "marka": "DEOR",
-    "model": "ZEON",
-    "years": 12,
-    "opisanie": "1",
-    "cost": 21.0,
-    "price": [
-      21312.0
-    ]
-  },
-  {
     "id": "3",
     "marka": "LENOVO",
     "model": "HONOR",
@@ -25,5 +14,21 @@
     "years": 2023,
     "opisanie": "FOR",
     "price": 0.0
+  },
+  {
+    "id": "3",
+    "marka": "BMX",
+    "model": "X5",
+    "years": 2005,
+    "opisanie": "the bset",
+    "price": 4060.0
+  },
+  {
+    "id": "67",
+    "marka": "Emir",
+    "model": "the best",
+    "years": 2004,
+    "opisanie": "the best of the bests",
+    "price": 1e+21
   }
 ]
